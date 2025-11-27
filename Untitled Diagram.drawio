@@ -171,8 +171,8 @@
         <mxCell id="K-6UtHccNFK5HgkNZUim-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="RFC3261" vertex="1">
           <mxGeometry height="30" width="60" x="3500" y="563" as="geometry" />
         </mxCell>
-        <mxCell id="K-6UtHccNFK5HgkNZUim-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="идентификатор транзакции" vertex="1">
-          <mxGeometry height="22" width="154" x="310" y="57" as="geometry" />
+        <mxCell id="K-6UtHccNFK5HgkNZUim-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="идентификатор транзакции. новый для каждого нового запроса/метода" vertex="1">
+          <mxGeometry height="72" width="154" x="318" y="-5" as="geometry" />
         </mxCell>
         <mxCell id="K-6UtHccNFK5HgkNZUim-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="идентификатор вызова" vertex="1">
           <mxGeometry height="28" width="121" x="310" y="130" as="geometry" />
