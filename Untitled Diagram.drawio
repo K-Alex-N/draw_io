@@ -85,7 +85,10 @@
           <mxGeometry height="40" width="290" x="746.5" y="2160" as="geometry" />
         </mxCell>
         <mxCell id="K-6UtHccNFK5HgkNZUim-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="MicroSIP&lt;br&gt;&lt;strong data-start=&quot;1333&quot; data-end=&quot;1347&quot;&gt;Платформа:&lt;/strong&gt; только Windows&lt;br data-start=&quot;1362&quot; data-end=&quot;1365&quot;&gt;&lt;strong data-start=&quot;1365&quot; data-end=&quot;1374&quot;&gt;Цена:&lt;/strong&gt; бесплатный&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="180" x="520" y="2440" as="geometry" />
+          <mxGeometry height="70" width="180" x="510" y="2430" as="geometry" />
+        </mxCell>
+        <mxCell id="K-6UtHccNFK5HgkNZUim-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p data-start=&quot;0&quot; data-end=&quot;134&quot;&gt;&lt;strong data-start=&quot;0&quot; data-end=&quot;63&quot;&gt;FreePBX — это бесплатная веб-панель для управления Asterisk&lt;/strong&gt;, которая превращает сложный VoIP-движок в удобную «коробочную» IP-АТС.&lt;/p&gt;&#xa;&lt;p data-start=&quot;136&quot; data-end=&quot;272&quot;&gt;Сам Asterisk — мощный, но требует ручной конфигурации.&lt;br data-start=&quot;190&quot; data-end=&quot;193&quot;&gt;&#xa;FreePBX делает это простым: кликаешь кнопками → получаешь готовую IP-телефонию.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="270" x="746.5" y="2210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
